@@ -12,7 +12,7 @@ public class h{
             System.out.println("its present");
             break;
           }
-          if(b!=a[i]){
+          else{
             System.out.println("not present");
             break;
           }
